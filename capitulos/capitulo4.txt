@@ -1,1 +1,2 @@
 En este capítulo veremos cómo usar GitHub para alojar repositorios en remoto. Añadir los cambios a la zona de intercambio temporal. Hacer un commit con el mensaje “Añadido capítulo 4.” Mostrar la historia del repositorio incluyendo todas las ramas.
+conflicto
